@@ -1,0 +1,13 @@
+package com.example.retailStore
+
+import org.junit.jupiter.api.Test
+import org.springframework.boot.test.context.SpringBootTest
+
+@SpringBootTest
+class RetailStoreApplicationTests {
+
+	@Test
+	fun contextLoads() {
+	}
+
+}
